@@ -1,0 +1,18 @@
+
+hide circle
+
+hide empty members
+
+hide empty methods
+
+skinparam classAttributeIconSize 0
+skinparam monochrome true
+skinparam shadowing false
+skinparam noteBackgroundColor white
+
+skinparam class {
+    fontStyle bold
+    fontSize 14
+    attributeFontSize 14
+    stereotypeFontSize 14
+}
