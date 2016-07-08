@@ -1,0 +1,18 @@
+@startuml
+
+!include _uml-styles.iuml
+
+class Peter {
+    - name : String
+    # age : Int
+    + getName() : String
+}
+
+class Human {
+    - amountOfHands : Int = 2
+    + getAmountOfHands()
+}
+
+Peter -|> Human
+
+@enduml
