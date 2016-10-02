@@ -2,6 +2,7 @@
 hide circle
 
 hide empty members
+hide empty methods
 
 skinparam classAttributeIconSize 0
 skinparam monochrome true
